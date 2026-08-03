@@ -3,9 +3,9 @@
 
 # Mirleen Session Lifecycle and Resume Protocol v0.1
 
-Status: Accepted operational protocol  
-Authority: Founder / Intent Owner — Saleem-ASMR  
-Adoption date: 2026-08-03  
+Status: Accepted operational protocol
+Authority: Founder / Intent Owner — Saleem-ASMR
+Adoption date: 2026-08-03
 Scope: Provider-neutral session lifecycle, recovery, resumption, verification, and closure semantics.
 
 ## 1. Purpose
@@ -111,7 +111,7 @@ This protocol defines operational lifecycle semantics only. It does not create r
 
 ## 14. Adoption decision
 
-Founder decision: `ACCEPTED`  
+Founder decision: `ACCEPTED`
 Founder / Intent Owner: `Saleem-ASMR`
 
 The accepted canonical terms are:
