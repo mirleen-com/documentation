@@ -3,9 +3,9 @@
 
 # Mirleen Coordination Architecture and Orchestrator Direction v0.1
 
-**Status:** FOUNDER-ACCEPTED ARCHITECTURAL DIRECTION  
-**Authority:** Founder / Intent Owner — Saleem-ASMR  
-**Scope:** Architectural direction only; no runtime implementation or Phase 3 authorization.  
+**Status:** FOUNDER-ACCEPTED ARCHITECTURAL DIRECTION
+**Authority:** Founder / Intent Owner — Saleem-ASMR
+**Scope:** Architectural direction only; no runtime implementation or Phase 3 authorization.
 **Authoritative Drive record:** `1jVdh56Is790cv1FKFOpcM7BEb9pWDe3wvu7jhw3wtUM`
 
 ## 1. Purpose
